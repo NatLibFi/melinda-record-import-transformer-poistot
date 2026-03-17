@@ -1,0 +1,11 @@
+{
+  "description": "handleSIDs: Removed 0011001",
+  "skip": false,
+  "only": false,
+  "method": "handleSIDs",
+  "libraryTag": "HELMET",
+  "expectedLocalId": false,
+  "skipLocalSidCheck": false,
+  "expectToFail": false,
+  "expectedFailStatus": 200
+}

@@ -1,0 +1,7 @@
+node_modules
+.env
+.env*
+dist
+test
+.nyc_output
+transformed

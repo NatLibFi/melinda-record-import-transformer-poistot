@@ -1,0 +1,8 @@
+{
+  "description": "Validation drops HELME<DROP> fields",
+  "skip": false,
+  "only": false,
+  "libraryTag": "HELME",
+  "expectToFail": false,
+  "expectedFailStatus": 200
+}

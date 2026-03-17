@@ -1,0 +1,13 @@
+{
+  "failed": false,
+  "messages": [
+    {
+      "description": "Checks that the record does not contain the configured subfields",
+      "state": "valid"
+    },
+    {
+      "description": "Checks that the record does not contain the configured subfields",
+      "state": "valid"
+    }
+  ]
+}

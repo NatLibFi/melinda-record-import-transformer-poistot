@@ -1,0 +1,376 @@
+{
+  "_validationOptions": {},
+  "leader": "01980cam a22004574i 4500",
+  "fields": [
+    {
+      "tag": "001",
+      "value": "001234567"
+    },
+    {
+      "tag": "003",
+      "value": "FI-MELINDA"
+    },
+    {
+      "tag": "005",
+      "value": "20240924195951.0"
+    },
+    {
+      "tag": "008",
+      "value": "240924t20242024fi ||||j      |0| j|fin|c"
+    },
+    {
+      "tag": "020",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "978-952-00-0000-0"
+        },
+        {
+          "code": "q",
+          "value": "kovakantinen"
+        }
+      ]
+    },
+    {
+      "tag": "035",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "(FI-BTJ)1110111"
+        }
+      ]
+    },
+    {
+      "tag": "035",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "(FI-MELINDA)001234567"
+        }
+      ]
+    },
+    {
+      "tag": "040",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "FI-BTJ"
+        },
+        {
+          "code": "b",
+          "value": "fin"
+        },
+        {
+          "code": "e",
+          "value": "rda"
+        },
+        {
+          "code": "d",
+          "value": "FI-NL"
+        }
+      ]
+    },
+    {
+      "tag": "041",
+      "ind1": "0",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "fin"
+        }
+      ]
+    },
+    {
+      "tag": "084",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "85.12"
+        },
+        {
+          "code": "2",
+          "value": "ykl"
+        }
+      ]
+    },
+    {
+      "tag": "100",
+      "ind1": "1",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "Mallikas, matti"
+        },
+        {
+          "code": "e",
+          "value": "kirjoittaja,"
+        },
+        {
+          "code": "0",
+          "value": "(FI-ASTERI-N)000000000"
+        }
+      ]
+    },
+    {
+      "tag": "240",
+      "ind1": "1",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "Record title."
+        },
+        {
+          "code": "l",
+          "value": "Suomi"
+        }
+      ]
+    },
+    {
+      "tag": "245",
+      "ind1": "1",
+      "ind2": "0",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "Record title /"
+        }
+      ]
+    },
+    {
+      "tag": "250",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "1. painos."
+        }
+      ]
+    },
+    {
+      "tag": "264",
+      "ind1": " ",
+      "ind2": "3",
+      "subfields": [
+        {
+          "code": "b",
+          "value": "Malli Oy"
+        }
+      ]
+    },
+    {
+      "tag": "264",
+      "ind1": " ",
+      "ind2": "4",
+      "subfields": [
+        {
+          "code": "c",
+          "value": "©2024"
+        }
+      ]
+    },
+    {
+      "tag": "300",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "66 sivua :"
+        },
+        {
+          "code": "b",
+          "value": "kuvitettu ;"
+        },
+        {
+          "code": "c",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "tag": "336",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "stillkuva"
+        },
+        {
+          "code": "b",
+          "value": "sti"
+        },
+        {
+          "code": "2",
+          "value": "rdacontent"
+        }
+      ]
+    },
+    {
+      "tag": "336",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "teksti"
+        },
+        {
+          "code": "b",
+          "value": "txt"
+        },
+        {
+          "code": "2",
+          "value": "rdacontent"
+        }
+      ]
+    },
+    {
+      "tag": "337",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "käytettävissä ilman laitetta"
+        },
+        {
+          "code": "b",
+          "value": "n"
+        },
+        {
+          "code": "2",
+          "value": "rdamedia"
+        }
+      ]
+    },
+    {
+      "tag": "338",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "nide"
+        },
+        {
+          "code": "b",
+          "value": "nc"
+        },
+        {
+          "code": "2",
+          "value": "rdacarrier"
+        }
+      ]
+    },
+    {
+      "tag": "884",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "Helmet to Melinda MARC transformation"
+        },
+        {
+          "code": "g",
+          "value": "20240924"
+        },
+        {
+          "code": "k",
+          "value": "HELMET:4bc94b68cf448f86537bb9a0faece8312f4ccc85d7a7f2f054f056e8bbd72840"
+        },
+        {
+          "code": "q",
+          "value": "FI-NL"
+        },
+        {
+          "code": "5",
+          "value": "MELINDA"
+        }
+      ]
+    },
+    {
+      "tag": "SID",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "c",
+          "value": "0011001"
+        },
+        {
+          "code": "b",
+          "value": "helme"
+        }
+      ]
+    },
+    {
+      "tag": "SID",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "c",
+          "value": "1110111"
+        },
+        {
+          "code": "b",
+          "value": "FI-BTJ"
+        }
+      ]
+    },
+    {
+      "tag": "CAT",
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "IMP_HELMET"
+        },
+        {
+          "code": "b",
+          "value": "30"
+        },
+        {
+          "code": "c",
+          "value": "20240924"
+        },
+        {
+          "code": "l",
+          "value": "FIN01"
+        },
+        {
+          "code": "h",
+          "value": "1959"
+        }
+      ]
+    },
+    {
+      "ind1": " ",
+      "ind2": " ",
+      "subfields": [
+        {
+          "code": "a",
+          "value": "HELMET"
+        }
+      ],
+      "tag": "LOW"
+    }
+  ]
+}
