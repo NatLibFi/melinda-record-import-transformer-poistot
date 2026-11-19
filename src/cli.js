@@ -1,7 +1,6 @@
 import fs from 'fs';
 import yargs from 'yargs';
 import transformFactory from './transform/index.js';
-import moment from 'moment';
 import {transformerCliLogic} from '@natlibfi/melinda-record-import-commons';
 import * as config from './config.js';
 
@@ -40,6 +39,6 @@ async function cli() {
     })
     .parseSync();
 
-  const transform = transformFactory({...config, moment});
+  const transform = transformFactory(config);
   await transformerCliLogic(args, transform);
 }

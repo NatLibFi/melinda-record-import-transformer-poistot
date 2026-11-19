@@ -43,7 +43,6 @@
     "@natlibfi/melinda-record-import-commons": "^14.0.0",
     "@natlibfi/sru-client": "^7.0.6",
     "amqplib": "^2.4.0",
-    "moment": "^2.31.0",
     "yargs": "^18.2.0"
   },
   "devDependencies": {
