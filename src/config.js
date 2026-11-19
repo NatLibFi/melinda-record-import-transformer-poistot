@@ -1,4 +1,4 @@
-import {readEnvironmentVariable} from '@natlibfi/melinda-backend-commons';
+import {readEnvironmentVariable} from '@natlibfi/melinda-commons';
 import {parseBoolean} from '@natlibfi/melinda-commons';
 
 export const mongoUrl = readEnvironmentVariable('MONGO_URI', {defaultValue: 'mongodb://127.0.0.1:27017/db'});

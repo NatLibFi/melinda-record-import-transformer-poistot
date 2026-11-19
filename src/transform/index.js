@@ -3,7 +3,7 @@ import {promisify} from 'util';
 import {EventEmitter} from 'events';
 
 import {MarcRecord} from '@natlibfi/marc-record';
-import {createLogger} from '@natlibfi/melinda-backend-commons';
+import {createLogger} from '@natlibfi/melinda-commons';
 
 import createValidator from '../validate/index.js';
 import {createSruOperator} from './sruOperator.js';

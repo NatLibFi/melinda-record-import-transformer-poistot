@@ -1,4 +1,4 @@
-import {createLogger} from '@natlibfi/melinda-backend-commons';
+import {createLogger} from '@natlibfi/melinda-commons';
 import {transformerBlobLogic, createMongoBlobsOperator, createAmqpOperator} from '@natlibfi/melinda-record-import-commons';
 import createTransformHandler from './transform/index.js';
 import amqplib from 'amqplib';

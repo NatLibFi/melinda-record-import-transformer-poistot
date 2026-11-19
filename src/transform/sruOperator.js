@@ -1,7 +1,7 @@
 import {Error as TransformationError} from '@natlibfi/melinda-commons';
 import {MARCXML} from '@natlibfi/marc-record-serializers';
 import createSruClient from '@natlibfi/sru-client';
-import {createLogger} from '@natlibfi/melinda-backend-commons';
+import {createLogger} from '@natlibfi/melinda-commons';
 
 export async function createSruOperator(url, recordSchema = 'marcxml') {
   const logger = createLogger();
